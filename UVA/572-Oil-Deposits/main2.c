@@ -2,7 +2,7 @@
 /* Problema:  UVA#572 Oil Deposits                            */
 /* Categoría: Graph                                           */
 /* Autor:     Lorena S. Daicich                               */
-/* Username:  Kashmir                                         */
+/* Username:  LorenaSoledad                                   */
 /**************************************************************/
 
 
