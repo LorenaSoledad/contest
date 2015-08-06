@@ -2,7 +2,7 @@
 /* Problema:  UVA#11831 Sticker Collector Robot               */
 /* Categoría: Math                                            */
 /* Autor:     Lorena S. Daicich                               */
-/* Username:  Kashmir                                         */
+/* Username:  LorenaSoledad                                   */
 /**************************************************************/
 
 
